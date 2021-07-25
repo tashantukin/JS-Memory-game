@@ -1,0 +1,9 @@
+push();
+querySelector()
+setAttribute()
+getAttribute()
+creatteElement
+appendChild
+Math.random
+sort()
+for loops
